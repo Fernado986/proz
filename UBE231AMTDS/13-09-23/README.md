@@ -6,6 +6,8 @@ Nesta pasta, você encontrará soluções para dois exercícios de programação
 
 ## 1. Aplicação de Descontos 🏷️
 
+[🔗 Clique aqui para ver o código](https://github.com/lenicio/proz/blob/main/UBE231AMTDS/13-09-23/desconto_produto.py)
+
 Este programa calcula descontos aplicados a produtos de uma loja online com base em seu preço.
 
 ### 📜 Regras de Desconto:
@@ -38,6 +40,8 @@ Este programa calcula descontos aplicados a produtos de uma loja online com base
 ---
 
 ## 2. Jogo de Adivinhação 🎲
+
+[🔗 Clique aqui para ver o código](https://github.com/lenicio/proz/blob/main/UBE231AMTDS/13-09-23/adivinhacao.py)
 
 Este é um jogo simples de adivinhação. O programa seleciona aleatoriamente um número entre 1 e 10 e permite ao usuário fazer três tentativas para adivinhar o número. 
 
