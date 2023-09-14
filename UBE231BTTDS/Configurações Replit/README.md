@@ -23,3 +23,7 @@ Este projeto permite que os usuários visualizem e executem scripts Python de um
 ## 🤝 Contribuições
 
 Sinta-se à vontade para contribuir com melhorias, correções de bugs ou sugestões para este projeto. Faça um fork do repositório, faça suas alterações e envie um pull request.
+
+## 🔗 Código-fonte
+
+O arquivo principal do código pode ser encontrado [aqui](https://github.com/lenicio/proz/blob/main/UBE231BTTDS/Configura%C3%A7%C3%B5es%20Replit/main.py).
