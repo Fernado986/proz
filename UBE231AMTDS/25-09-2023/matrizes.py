@@ -1,6 +1,14 @@
 from os import system
 from msvcrt import getch
 
+
+def exibe_menu():
+    system("cls")
+    print("[1] - Adicionar usuário")
+    print("[2] - Editar usuário")
+    print("[3] - Encerrar")
+
+
 lista_usuarios = [{'usuario': 'Pedro', 'senha': 'x4grFV0z', 'nivel': 'admin'},
                   {'usuario': 'Luísa', 'senha': 'DldOz0tO', 'nivel': 'admin'},
                   {'usuario': 'Marcelo', 'senha': 'LGLQGKTj', 'nivel': 'admin'},
@@ -13,10 +21,8 @@ lista_usuarios = [{'usuario': 'Pedro', 'senha': 'x4grFV0z', 'nivel': 'admin'},
                   {'usuario': 'Juliana', 'senha': 'uSi7REKw', 'nivel': 'usuario'}]
 
 while True:
-    system("cls")
-    print("[1] - Adicionar usuário")
-    print("[2] - Editar usuário")
-    print("[3] - Encerrar")
+    exibe_menu()
+
     opcao = input("\nSelecione: ")
 
     if opcao == "1":
